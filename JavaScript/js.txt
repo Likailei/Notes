@@ -11,6 +11,7 @@ $("#code").append("<iframe id='fme' width='100%' scrolling='yes' frameborder='0'
 
 https://learnopengl.com/code_viewer_gh.php?code=src/1.getting_started/2.2.hello_triangle_indexed/hello_triangle_indexed.cpp
 
+##Braynzarsoft
 $("#maincontent").css({"background-color":"#C7EDCC"})
 $("#content").css({"background-color":"#C7EDCC"})
 $("#content").css({"padding-left":"156px"})
@@ -24,3 +25,14 @@ $("div.after-main-question-ad").hide()
 $("#content-header").next().hide()
 $(".comment-container").hide()
 $("#global-footer").hide()
+
+##YY
+$("div.w-liveplayer-side").hide();
+$("div.drawer-expand").hide();
+$("div.w-liveplayer-present").hide();
+$("#videoListSlider").hide();
+$("#liveListSlider").hide();
+$("#drawer-expand__scroll-container").hide();
+$("#wHead").hide();
+$("#drawer").hide();
+$("#studio-infoRecommend__mount-point").hide();
